@@ -1,0 +1,27 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Learn TypeScript and Webpack basic",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frozenplanet14/typescript.git"
+  },
+  "keywords": ["typescript"],
+  "devDependencies": {
+    "awesome-typescript-loader": "3.4.1",
+    "typescript": "2.6.2",
+    "webpack": "3.10.0",
+    "webpack-dev-server": "2.9.7"
+  },
+  "author": "Suman Jha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/frozenplanet14/typescript/issues"
+  },
+  "homepage": "https://github.com/frozenplanet14/typescript#readme"
+}
