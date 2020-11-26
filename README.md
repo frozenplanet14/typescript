@@ -5,7 +5,7 @@
 
 ## Setup and install
 
-Run `npm install` or `yarn install` inside the project directory.
+Run `yarn install` or `npm install` inside the project directory.
 
 ## Running the application
 Now simply run below command to start a local development server:
